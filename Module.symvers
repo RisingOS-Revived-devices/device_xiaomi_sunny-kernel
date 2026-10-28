@@ -6002,7 +6002,6 @@
 0x1d6b3d79	mmc_cmdq_erase	vmlinux	EXPORT_SYMBOL
 0xe5747f22	usb_diag_write	vmlinux	EXPORT_SYMBOL
 0x8878cfa6	gether_cleanup	vmlinux	EXPORT_SYMBOL_GPL
-0xc2f9ce83	usb_bus_start_enum	vmlinux	EXPORT_SYMBOL_GPL
 0x266ffcf1	slim_remove_device	vmlinux	EXPORT_SYMBOL
 0x0f4fee0e	platform_bus_type	vmlinux	EXPORT_SYMBOL_GPL
 0x47de0dc7	clk_unregister_mux	vmlinux	EXPORT_SYMBOL_GPL
